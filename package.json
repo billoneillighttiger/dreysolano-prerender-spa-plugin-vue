@@ -48,8 +48,8 @@
     "email": "dreysolano@gmail.com"
   },
   "dependencies": {
-    "@prerenderer/prerenderer": "^0.7.2",
-    "@prerenderer/renderer-puppeteer": "^0.2.0",
+    "@prerenderer/prerenderer": "^1.0.3",
+    "@prerenderer/renderer-puppeteer": "^1.0.4",
     "html-minifier": "^4.0.0"
   },
   "devDependencies": {
